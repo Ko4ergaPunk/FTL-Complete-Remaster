@@ -7,7 +7,7 @@
 
 
 	<!-- The title of this mod. -->
-	<title><![CDATA[ Actual Remaster ]]></title>
+	<title><![CDATA[ FTL: Complete Remaster ]]></title>
 
 
 	<!--
@@ -15,11 +15,11 @@
 		If there's no thread yet, create one to announce your upcoming mod in the
 		forum. Then paste the url here.
 	-->
-	<threadUrl><![CDATA[  ]]></threadUrl>
+	<threadUrl><![CDATA[ https://github.com/Ko4ergaPunk/FTL-Complete-Remaster ]]></threadUrl>
 
 
 	<!-- Your forum user name. -->
-	<author><![CDATA[ Ko4erga ]]></author>
+	<author><![CDATA[ Ko4erga & Taburetka24 ]]></author>
 
 
 	<!--
@@ -30,33 +30,14 @@
 			2.4.1 Hi-res Bkgs
 			1.0 for FTL 1.03.1
 	-->
-	<version><![CDATA[ 0.1 ]]></version>
+	<version><![CDATA[ 0.1.2 ]]></version>
 
 
 	<description>
 <![CDATA[
+This is a mod that improves the visual component of the game.
 
+Continuing the idea of this mod https://www.moddb.com/mods/ftl-remastered.
 ]]>
 	</description>
-
-	<!--
-		Suggestions for the description...
-
-		Write a short paragraph about the mod's effect first (what style ship, how
-		does it affect gameplay). No need to introduce yourself.
-
-		Optionally add a paragraph of background flavor.
-
-		Optionally list important features.
-
-		List any concerns about mod compatibility, preferred order, or requirements.
-
-		Mention "Replaces the XYZ ship." if relevant.
-			Kestrel-A, Engi-A,    Fed-A,     Zoltan-A,
-			Stealth-A, Rock-A,    Slug-A,    Mantis-A,
-			Lanius-A,  Crystal-A
-
-		Above all, keep the description general, so you won't have to edit
-		that again for each new version.
-	-->
 </metadata>
