@@ -8,21 +8,27 @@ We used some material from there.
 
 At the moment it is still in progress.
 
-**[Download latest](https://github.com/Ko4ergaPunk/FTL-Complete-Remaster/releases/download/Release/FTL_Complete_Remaster.ftl)**
+**[Download latest](https://github.com/Ko4ergaPunk/FTL-Complete-Remaster/releases/download/v0.1.3/FTL_Complete_Remaster.ftl)**
 
 ## TODO
+<details>
+<summary>Playeble ships</summary>
+<br>
+
+- ~Kestrel~
+- ~Engi~
+- ~Federation~
+- Zoltan
+- Mantis
+- Slug
+- Rock
+- Stealth
+- Lanius
+- Crystal
+
+</details>
+
 - ~Weapons~
-- Playeble ships
-  - ~Kestrel~
-  - ~Engi~
-  - Federation
-  - Zoltan
-  - Mantis
-  - Slug
-  - Rock
-  - Stealth
-  - Lanius
-  - Crystal
 - Enemies ships
 - Drones
 - UI
