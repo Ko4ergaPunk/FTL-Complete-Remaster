@@ -8,16 +8,13 @@ We used some material from there.
 
 At the moment it is still in progress.
 
-**[Download latest](https://github.com/Ko4ergaPunk/FTL-Complete-Remaster/releases/download/v0.1.3/FTL_Complete_Remaster.ftl)**
+**[Download latest](https://github.com/Ko4ergaPunk/FTL-Complete-Remaster/releases/download/v0.2.3/FTL_Complete_Remaster.ftl)**
 
 ## TODO
 <details>
 <summary>Playeble ships</summary>
 <br>
 
-- ~Kestrel~
-- ~Engi~
-- ~Federation~
 - Zoltan
 - Mantis
 - Slug
@@ -28,9 +25,7 @@ At the moment it is still in progress.
 
 </details>
 
-- ~Weapons~
 - Enemies ships
-- Drones
 - UI
 - People
 - Backgrounds
