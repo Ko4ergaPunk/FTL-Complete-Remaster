@@ -15,9 +15,6 @@ At the moment it is still in progress.
 <summary>Playeble ships</summary>
 <br>
 
-- ~Kestrel~
-- ~Engi~
-- ~Federation~
 - Zoltan
 - Mantis
 - Slug
@@ -28,9 +25,7 @@ At the moment it is still in progress.
 
 </details>
 
-- ~Weapons~
 - Enemies ships
-- ~Drones~
 - UI
 - People
 - Backgrounds
