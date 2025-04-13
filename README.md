@@ -8,7 +8,7 @@ We used some material from there.
 
 At the moment it is still in progress.
 
-**[Download latest](https://github.com/Ko4ergaPunk/FTL-Complete-Remaster/releases/download/v0.1.3/FTL_Complete_Remaster.ftl)**
+**[Download latest](https://github.com/Ko4ergaPunk/FTL-Complete-Remaster/releases/download/v0.2.3/FTL_Complete_Remaster.ftl)**
 
 ## TODO
 <details>
@@ -30,7 +30,7 @@ At the moment it is still in progress.
 
 - ~Weapons~
 - Enemies ships
-- Drones
+- ~Drones~
 - UI
 - People
 - Backgrounds
